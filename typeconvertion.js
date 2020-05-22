@@ -20,3 +20,4 @@ console.log(Boolean(str2))
 console.log(Boolean(str3))
 console.log(Boolean(str4))
 console.log(Boolean(str5))
+
