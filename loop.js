@@ -60,3 +60,11 @@ for(var i = 1; i <= n; i++){
     }
     console.log(string)
 }
+
+for(var i = 0; i <= 10; i++){
+    if(i === 4 || i === 7){
+        continue
+    }else{
+        console.log(i);
+    }
+}
